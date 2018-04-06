@@ -1,0 +1,20 @@
+For SIMULATOR_2.3
+
+Aim: Maximize generality of network
+
+Rectangles
+
+sim1 - training
+sim2 - 
+sim3 - 
+sim4 - testing
+
+
+Circles 
+
+sim5 - 
+sim6 - 
+sim7 - 
+sim8 - 
+
+
